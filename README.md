@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="C:\Users\admim\Pictures\githubbgimage.png" alt="Repository Banner" width="100%">
-</p>
+![Banner Alt Text](githubbgimage.png)
 
 
 
