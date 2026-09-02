@@ -1,4 +1,8 @@
-![Banner Text](C:\Users\admim\Downloads\githubbgimage.png)
+<p align="center">
+  <img src="C:\Users\admim\Pictures\githubbgimage.png" alt="Repository Banner" width="100%">
+</p>
+
+
 
 # 💫 About Me:
 I am currently working with React, TypeScript, JavaScript & Tailwind CSS.<br>Currently learningnext.js & Node.js.<br>Building modern and responsive web applications.<br>Building projects to strengthen my Full-Stack development skill.<br>Continuously learning and improving my development skills<br>Open to collaboration, open-sources projects & learning opportunities<br>I love to turnings ideas into web applications
