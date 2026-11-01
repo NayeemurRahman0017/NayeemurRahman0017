@@ -1,11 +1,11 @@
 ![Banner](githubbgimage.png)
 
-<h1 align="center">Hi 👋, I'm Nayeemur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Nayeemur Rahman Bhuiyan Nayeem</h1>
 
 <h3 align="center">Frontend Developer | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-  I love building modern, responsive, and user-friendly web applications.
+  Passionate about building modern, responsive, and user-friendly web applications.
 </p>
 
 ---
@@ -43,25 +43,25 @@
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" alt="Programming Languages"/>
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend Technologies"/>
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
 </p>
 
 ### Tools & Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" alt="Tools and Design"/>
 </p>
 
 ---
@@ -69,12 +69,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nayeemurrahman0017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Nayeemurrahman0017&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=Nayeemurrahman0017&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeemurrahman0017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nayeemurrahman0017&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
@@ -82,7 +82,15 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nayeemurrahman0017/Nayeemurrahman0017/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Nayeemurrahman0017/Nayeemurrahman0017/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nayeemurrahman0017&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -91,8 +99,4 @@
   <b>Thanks for visiting my profile! 👋</b>
   <br/>
   <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nayeemurrahman0017&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
