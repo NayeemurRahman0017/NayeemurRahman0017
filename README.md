@@ -1,106 +1,74 @@
-![Banner](githubbgimage.png)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Nayeemur Rahman Bhuiyan Nayeem</h1>
+# Hi 👋, I'm Nayeemur Rahman Bhuiyan Nayeem
 
-<h3 align="center">Frontend Developer | Aspiring Full-Stack Developer</h3>
+### Frontend Developer | Growing into Full-Stack
 
-<p align="center">
-  Passionate about building modern, responsive, and user-friendly web applications.
-</p>
+Building modern, responsive and user-friendly web applications with **React, Next.js & TypeScript**.
 
----
+<br>
 
-## 💫 About Me
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.facebook.com/nayem.bhuiyan.1101/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-* 🔭 Currently working with **React, JavaScript, TypeScript & Tailwind CSS**.
-* 🌱 Currently learning **Next.js & Node.js**.
-* 💻 Building modern and responsive web applications.
-* 🚀 Strengthening my Full-Stack Development skills through real-world projects.
-* 🤝 Open to collaboration, open-source projects, and learning opportunities.
-* 💡 Passionate about turning creative ideas into functional web applications.
-* 📚 Always learning, exploring, and improving my development skills.
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://www.facebook.com/nayem.bhuiyan.1101/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:nayeembhuiyan0017@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+- 🔭 Currently working with **React, TypeScript, Next.js & Tailwind CSS**
+- 🌱 Currently learning **Node.js, Express & MongoDB**
+- 🚀 Building real-world projects to strengthen my full-stack skills
+- 🤝 Open to collaboration, internships and open-source contributions
+- 📍 Based in Dhaka, Bangladesh
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript, TypeScript, C, C++ |
+| **Frontend** | HTML, CSS, React, Next.js, Tailwind CSS |
+| **Backend (Learning)** | Node.js, Express, MongoDB |
+| **Tools** | Git, GitHub, VS Code, Figma |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" alt="Programming Languages"/>
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend Technologies"/>
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
-</p>
-
-### Tools & Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" alt="Tools and Design"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**DevStack**](https://github.com/NayeemurRahman0017/DEV-STACK) | A developer resource platform to explore programming tools, technologies and useful resources | Next.js, TypeScript, Tailwind CSS, REST API |
+| [**FitLog**](https://github.com/NayeemurRahman0017/fit-log) | A responsive fitness app to browse exercises, create workout plans and track progress | Next.js, TypeScript |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Nayeemurrahman0017&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Nayeemurrahman0017&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nayeemurrahman0017&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NayeemurRahman0017&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayeemurRahman0017&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🎯 Currently Focusing On
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nayeemurrahman0017/Nayeemurrahman0017/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nayeemurrahman0017/Nayeemurrahman0017/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Nayeemurrahman0017/Nayeemurrahman0017/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+- Building full-stack projects with authentication and databases
+- Improving my TypeScript and Next.js skills
+- Writing clean, well-documented code
 
 ---
 
-## 👀 Profile Visitors
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nayeemurrahman0017&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+*Keep Learning • Keep Building • Keep Growing* 🚀
 
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
-  <br/>
-  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
-</p>
+</div>
