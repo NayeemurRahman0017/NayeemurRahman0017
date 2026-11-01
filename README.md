@@ -1,22 +1,98 @@
-![Banner Alt Text](githubbgimage.png)
+![Banner](githubbgimage.png)
 
+<h1 align="center">Hi 👋, I'm Nayeemur Rahman</h1>
 
+<h3 align="center">Frontend Developer | Aspiring Full-Stack Developer</h3>
 
-# 💫 About Me:
-I am currently working with React, TypeScript, JavaScript & Tailwind CSS.<br>Currently learningnext.js & Node.js.<br>Building modern and responsive web applications.<br>Building projects to strengthen my Full-Stack development skill.<br>Continuously learning and improving my development skills<br>Open to collaboration, open-sources projects & learning opportunities<br>I love to turnings ideas into web applications
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nayem.bhuiyan.1101/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nayeembhuiyan0017@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nayeemurrahman0017&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nayeemurrahman0017&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nayeemurrahman0017&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  I love building modern, responsive, and user-friendly web applications.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nayeemurrahman0017&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+* 🔭 Currently working with **React, JavaScript, TypeScript & Tailwind CSS**.
+* 🌱 Currently learning **Next.js & Node.js**.
+* 💻 Building modern and responsive web applications.
+* 🚀 Strengthening my Full-Stack Development skills through real-world projects.
+* 🤝 Open to collaboration, open-source projects, and learning opportunities.
+* 💡 Passionate about turning creative ideas into functional web applications.
+* 📚 Always learning, exploring, and improving my development skills.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.facebook.com/nayem.bhuiyan.1101/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:nayeembhuiyan0017@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nayeemurrahman0017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Nayeemurrahman0017&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeemurrahman0017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nayeemurrahman0017/Nayeemurrahman0017/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+  <br/>
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nayeemurrahman0017&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
