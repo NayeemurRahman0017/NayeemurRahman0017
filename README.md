@@ -86,6 +86,7 @@ I enjoy solving problems, exploring new technologies, and transforming ideas int
 
 ShobujSathi is an environmental initiative platform designed to connect people with plantation activities and promote a greener, healthier future. It encourages community participation, environmental awareness, and sustainable living.
 
+**Technologies:** Next.js, react.js, TypeScript, Tailwind CSS, Node.js, Express.js.
 **Project Links:**
 
 - 🌐 [Live Website](https://shoboj-sathi-client.vercel.app/)
