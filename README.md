@@ -7,7 +7,7 @@
 
 # Hi 👋, I'm Nayeemur Rahman Bhuiyan Nayeem
 
-### 💻 Web Developer
+### 💻 Frontend Developer
 
 Building modern, responsive and user-friendly web applications.
 
