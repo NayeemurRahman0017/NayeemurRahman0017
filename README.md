@@ -187,6 +187,4 @@ BazarDor is a market price tracking platform designed to help people explore and
 
 ### 💚 Keep Learning • Keep Building • Keep Growing
 
-**Made with ❤️ in Bangladesh 🇧🇩**
-
 </div>
